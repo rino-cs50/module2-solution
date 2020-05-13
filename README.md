@@ -4,7 +4,7 @@
 
 ** This folder contain my Coursera course: HTML, CSS, and Javascript for Web Developers Assignments **
 
-** Pleae feel free to check and evaluate my codes **
+** Please feel free to check and evaluate my codes **
 
 ** Any of your suggestions will be appreciated **
 
